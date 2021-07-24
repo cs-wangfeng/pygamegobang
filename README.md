@@ -14,9 +14,13 @@
 
 #### 目录
 
-
-
-
+|-BGM.mp3  
+|-GCH.png  
+|-README.md  
+|-WCH.png  
+|-task2_version2.0.py  
+|-task2_version2.0.pyproj  
+|-task2_version2.0.sln  
 #### 约束
 
 1.  该文件夹中的.py文件需要在python编译器环境下运行（VS可以使用.sln文件运行）
